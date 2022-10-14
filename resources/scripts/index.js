@@ -1,4 +1,3 @@
-//Test
 //Menu Home Effect
 const menu = document.getElementById("menu");
 

@@ -69,7 +69,7 @@ body {
   }
   
   #menu-background-image {
-    background-image: url("../images/carbon\ \(1\).png");
+    background-image: url("../images/Index\ Page-1.png");
     background-position: center 40%;
     background-size: 110vmax;
     height: 100%;
@@ -395,6 +395,7 @@ body {
   font-weight: bold;
   background-color: aliceblue;
   background-image: transparent 0%;
+  padding-top: 6.5px;
 }
 
 /* project styling */
